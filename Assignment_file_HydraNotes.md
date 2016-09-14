@@ -1,4 +1,4 @@
-# Tutorial practice file "Hydranotes" to practice forking and pull requests
+﻿# Tutorial practice file "Hydranotes" to practice forking and pull requests
 this assignment is based on Linebaugh and Rediker's **Many Headed Hydra**
 
 ## Introduction
@@ -27,6 +27,14 @@ this assignment is based on Linebaugh and Rediker's **Many Headed Hydra**
 	* Targets of the “holy war”: 1. Caliban (Natives)  2. Canannite (dispossessed commoner)  3. Pirates  4. Land rovers, petty thieves, highway robbers (underclass who rejected wage labor)  5. Assassins (threat to kings)  6. Amazons (empowered women)  7. Anabaptists
 
 ## Chapter 3: "A Blackymore Maide Named Francis"
+![Dorothy Hazzard preaching in the port of Bristol, 1640]( https://pbs.twimg.com/media/CdCadOhXEAEJlDx.jpg)
+
+ - In this chapter, Linebaugh and Rediker introduce the era of the English Revolution. They use a close reading of a text written by a white deacon of a radical sect in Bristol, England about the death of a black maid, Francis, who was a devout member of the church to illustrate “some of the more revolutionary notions of the day” 72. 
+ - The authors use the story of Francis to highlight both the importance of the unified actions of radical groups (hydra-heads) in carrying out the English Revolution and the ultimate division brought on by the capitalist economy afterward throughout the British Atlantic.
+ - They establish the role of antinomian religious sects in providing an organizational platform for revolt across ethnic and gender lines that play an integral part in the overthrow of Charles I.  [For more information on the role of the Baptist in the English Revolution in Bristol]( http://biblicalstudies.org.uk/pdf/bq/23-8_348.pdf)
+- Questions of theology that sprout from disagreements about the role of women and the role of slavery divided these groups and allowed capitalism to conquer in the short term. 
+- The authors show the criminalization of women and work and how the author of the original text and his compatriots enacted a “devalorization of women’s labor of reproduction” that established the necessary hierarchical system 93.  
+- The authors also show the development of slavery as racialized to allow these same white male leaders, simultaneously, take part in the Atlantic trade and clear their conscience. 
 
 ## Chapter 4: The Divarication of the Putney Debates
 
