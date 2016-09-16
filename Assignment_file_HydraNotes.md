@@ -1,7 +1,7 @@
 ﻿# This assignment is based on Linebaugh and Rediker's **Many Headed Hydra**
 
 ## Introduction
-
+![Hydra vs. Hercules](https://athenianvoice.files.wordpress.com/2014/08/greek_hydra.jpg)
 ## Chapter 1: Wreck of the Sea-Venture
 ![The Wreck of the Sea Venture by Christopher Grimes](https://minerdescent.files.wordpress.com/2011/11/wreck-of-the-sea-venture-2.jpg)
 * This chapter lays the foundations of the ideas of freedom from enclosure the author use of the story about the shipwrecked crew of the Sea Venture in the Bermuda islands in 1609 and William Shakespeare's Version of the story, _The Tempest_.
