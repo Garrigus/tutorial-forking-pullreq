@@ -55,7 +55,7 @@ And what a beautiful world we could be living in...perhaps it's not too late...
 ## Chapter 4: The Divarication of the Putney Debates
 * In this chapter, Rediker and Linebaugh establish that England is the origin of both the Commons and Slavery throughout the Atlantic.
 * The debates between the common soldiers off the New Model Army and Oliver Cromwell's representatives encapsulated a microsom of Atlantic revolution.
-* Putney was a crossroads in England, and both commonism (freedom) and slavery (enclosure) flowed accross the Atlantic World to Naples, London, Ireland, Barbados, The River Gambia, and Virginia
+* Putney was a crossroads in England, and both commonism (freedom) and slavery (enclosure) flowed across the Atlantic World to Naples, London, Ireland, Barbados, The River Gambia, and Virginia
 >*Tribeless, landless, nameless,*
 *Wealthless, hostless, fameless*
 *Wander now thine aimless*
@@ -78,7 +78,7 @@ And what a beautiful world we could be living in...perhaps it's not too late...
 ## Chapter 6: "The Outcasts of the Nations of the Earth"
 1. Chapter Thesis: There was a conspiracy that involved the proletariat of the entire Atlantic, and it erupted in the 1741 New York rebellion.
 2. p. 183, the "Gangs of New York" organize into a paramilitary operation, with multiple captains reporting to the same commanders.
-3. p. 184-186, West Africans, paricularly Gold Coast Africans, were committed members of the plot, organized into their own groups with their own leaders.
+3. p. 184-186, West Africans, particularly Gold Coast Africans, were committed members of the plot, organized into their own groups with their own leaders.
 4. p. 186-188, Irish involvement (around 30-35 men) in the conspiracy reflects their troubled economic and political troubles with the English.
 5. p. 188-190, Cuban "negroes and mulattoes," captured as a prize and treated as slaves, were particularly aggrieved because they were free Spanish subjects.
 [New York Conspiracy of 1741](https://en.wikipedia.org/wiki/New_York_Conspiracy_of_1741)
