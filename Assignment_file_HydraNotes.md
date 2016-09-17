@@ -48,7 +48,10 @@
 - Questions of theology that sprout from disagreements about the role of women and the role of slavery divided these groups and allowed capitalism to conquer in the short term.
 - The authors show the criminalization of women and work and how the author of the original text and his compatriots enacted a “devalorization of women’s labor of reproduction” that established the necessary hierarchical system 93.  
 - The authors also show the development of slavery as racialized to allow these same white male leaders, simultaneously, take part in the Atlantic trade and clear their conscience.
-
+* Edward Terrill was a church elder and Francis was a Black woman, maid, and member or a radical religious congregation, and therefore, to Linebaugh and Rediker, exemplary of the more revolutionary ideas during the Age of Revolutions. As an Anabaptist, independent, Black, "West Indian" woman, Francis embodied many heads of the hydra.
+* The story of Terrill and Francis and the authors' critical and creative interpretation of the source reveals dynamics of race, class, and gender in the English Revolution as well as shows "how radical voices were ultimately silenced." (72)
+* They suggest that if voices like Francis' were not erased or silenced, "the outcome of the English Revolution might have been dramatically altered: the commons might have been preserved; values other than those of market society and commodity production might have triumphed; work might not have been seen as the condition of human salvation; patriarchy in the family might not have been saved, nor the labor of women devalued; torture and terror might not have survived in the law and its practice; popular assemblies might have proliferated and become open; mutual subsistence rather than individual accumulation might have become the basis of economic activity; and divisions between master and slave might have been abolished."
+And what a beautiful world we could be living in...perhaps it's not too late...
 ## Chapter 4: The Divarication of the Putney Debates
 * In this chapter, Rediker and Linebaugh establish that England is the origin of both the Commons and Slavery throughout the Atlantic.
 * The debates between the common soldiers off the New Model Army and Oliver Cromwell's representatives encapsulated a microsom of Atlantic revolution.
