@@ -1,8 +1,16 @@
 ﻿# This assignment is based on Linebaugh and Rediker's **Many Headed Hydra**
 
 ## Introduction
+
 ![Hydra vs. Hercules](https://athenianvoice.files.wordpress.com/2014/08/greek_hydra.jpg)
 ![The Many Headed Hydra](https://images-na.ssl-images-amazon.com/images/I/51q8N-KuaeL._SX331_BO1,204,203,200_.jpg)
+
+1. The Atlantic is a hotbed of migration; migration related to labor classes: pirates, sailors and immigrants.
+2. The use of the Hydra myth, by the ruling class or elites, presents an easy to understand representation of anti-progress as embodied within labor classes (as seen, not by the authors, but by the elites captured within the examined historical documents).
+3. The various labor classes did not always, as will be examined, work hand-in-hand with one another, but at times fought with or sidetracked one another within the greater scheme of things - again, the use they many-headed hydra, where some heads might fight one another, is useful imagery.
+4. Though not consistently obvious, the Hercules aspect of the myth is not be lost.  This monograph is very much a story about labor classes as it is the ruling / elite classes within the Atlantic world.
+[To buy this book.](https://www.amazon.com/Many-Headed-Hydra-Commoners-Revolutionary-Atlantic/dp/0807033170)
+
 ## Chapter 1: Wreck of the Sea-Venture
 ![The Wreck of the Sea Venture by Christopher Grimes](https://minerdescent.files.wordpress.com/2011/11/wreck-of-the-sea-venture-2.jpg)
 * This chapter lays the foundations of the ideas of freedom from enclosure the author use of the story about the shipwrecked crew of the Sea Venture in the Bermuda islands in 1609 and William Shakespeare's Version of the story, _The Tempest_.
@@ -30,9 +38,25 @@
 	* “In England, the expropriation of the peasantry was accompanied by systematic violence and terror, organized through the criminal sanction, public searches, the prisons, martial law, capital punishment, banishment, forced labor, and colonization” (49).  Very severe, very public.  Measures of control.
 * The Specter of Hercules
 	* Targets of the “holy war”: 1. Caliban (Natives)  2. Canannite (dispossessed commoner)  3. Pirates  4. Land rovers, petty thieves, highway robbers (underclass who rejected wage labor)  5. Assassins (threat to kings)  6. Amazons (empowered women)  7. Anabaptists
+
 ## Chapter 3: "A Blackymore Maide Named Francis"
+![Dorothy Hazzard preaching in the port of Bristol, 1640]( https://pbs.twimg.com/media/CdCadOhXEAEJlDx.jpg)
+
+ - In this chapter, Linebaugh and Rediker introduce the era of the English Revolution. They use a close reading of a text written by a white deacon of a radical sect in Bristol, England about the death of a black maid, Francis, who was a devout member of the church to illustrate “some of the more revolutionary notions of the day” 72.
+ - The authors use the story of Francis to highlight both the importance of the unified actions of radical groups (hydra-heads) in carrying out the English Revolution and the ultimate division brought on by the capitalist economy afterward throughout the British Atlantic.
+ - They establish the role of antinomian religious sects in providing an organizational platform for revolt across ethnic and gender lines that play an integral part in the overthrow of Charles I.  [For more information on the role of the Baptist in the English Revolution in Bristol]( http://biblicalstudies.org.uk/pdf/bq/23-8_348.pdf)
+- Questions of theology that sprout from disagreements about the role of women and the role of slavery divided these groups and allowed capitalism to conquer in the short term.
+- The authors show the criminalization of women and work and how the author of the original text and his compatriots enacted a “devalorization of women’s labor of reproduction” that established the necessary hierarchical system 93.  
+- The authors also show the development of slavery as racialized to allow these same white male leaders, simultaneously, take part in the Atlantic trade and clear their conscience.
 
 ## Chapter 4: The Divarication of the Putney Debates
+* In this chapter, Rediker and Linebaugh establish that England is the origin of both the Commons and Slavery throughout the Atlantic.
+* The debates between the common soldiers off the New Model Army and Oliver Cromwell's representatives encapsulated a microsom of Atlantic revolution.
+* Putney was a crossroads in England, and both commonism (freedom) and slavery (enclosure) flowed accross the Atlantic World to Naples, London, Ireland, Barbados, The River Gambia, and Virginia
+>*Tribeless, landless, nameless,*
+*Wealthless, hostless, fameless*
+*Wander now thine aimless*
+*Children to and fro.* (p 123)
 
 ## Chapter 5: Hydrarchy: Sailors, Pirates and the Maritime State
 ![The Tar's Triumph, or Bawdy-House Battery](http://2.bp.blogspot.com/-JsKdCmWQ3Wk/Ux5lKcyAJ9I/AAAAAAAABMw/pPDWZiAMGPU/s1600/The+Tar%27s+Triumph+or+Bawdy+House+Brawl+Charles+Mosley+1749+NMM.jpg)
@@ -49,6 +73,12 @@
 * This does give the reader pause. It may be true that pirate crews often voted on matters such as prizes taken, and officers of the crew. This was, however not always the case and depended on each ship. It could also be argued that pirates where part of this capitalist system as they were trying to increase their profits with as little work as possible. Recent historians of the Golden Age of Piracy such as Ed Fox makes these assertions and argues that Rediker's interpretation of the Golden Age is flawed when it comes to the egalitarian nature of the pirate ship. [For more info on Ed Fox click here.](http://www.etfox.co.uk/index.php)
 
 ## Chapter 6: "The Outcasts of the Nations of the Earth"
+1. Chapter Thesis: There was a conspiracy that involved the proletariat of the entire Atlantic, and it erupted in the 1741 New York rebellion.
+2. p. 183, the "Gangs of New York" organize into a paramilitary operation, with multiple captains reporting to the same commanders.
+3. p. 184-186, West Africans, paricularly Gold Coast Africans, were committed members of the plot, organized into their own groups with their own leaders.
+4. p. 186-188, Irish involvement (around 30-35 men) in the conspiracy reflects their troubled economic and political troubles with the English.
+5. p. 188-190, Cuban "negroes and mulattoes," captured as a prize and treated as slaves, were particularly aggrieved because they were free Spanish subjects.
+[New York Conspiracy of 1741](https://en.wikipedia.org/wiki/New_York_Conspiracy_of_1741)
 
 ## Chapter 7: A Motley Crew in the American Revolution
 ![Boston Stamp Act Riot 1764](https://i2.wp.com/allthingsliberty.com/wp-content/uploads/2013/01/stamp-act-riot.jpg)
