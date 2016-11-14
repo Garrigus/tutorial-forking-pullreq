@@ -12,11 +12,15 @@ Source:  - https://guides.github.com/activities/forking/
 - Log into GitHub and go to http://github.com/Garrigus. Find the "tutorial-forking-pullreq" repository.
 - Click on the "fork" button in the upper right hand corner. This copies the files in the repository into your GitHub account.
 
+add screenshot here
+
 ## Clone the repository to your computer
 - Now you need to copy the files to your own computer so you can work on your own version. This is called "cloning".
 - In your forked version, click on the green "Clone or Download" button on the right side of the screen
 - You can do this in GitHub Desktop by choosing "Clone in Desktop". Or you can copy a zipfile to your computer and unpack it there.
 - If you use the zipfile method, then "add" this new folder or repository to your GitHub Desktop list of repositories.
+
+add screenshot here
 
 ## Add some content to the file named "Assignment-file-HydraNotes.md"
 - Open that file in a plain text editor.
@@ -32,6 +36,8 @@ Source:  - https://guides.github.com/activities/forking/
 - Click on the the green button labeled "Compare and pull request"
 - This will take you to a page where you can describe your changes and make a case that they should be included in the masterfile.
 - Then click on "Send pull request". This will submit your change to the owner of the masterfile, Dr. Garrigus, and he will evaluate your work.
+
+this section needs more clarity or more steps
 
 ## Done!
 - You have forked a repository, made changes, and contributed to a document!
