@@ -26,18 +26,16 @@ Source:  - https://guides.github.com/activities/forking/
 - Open that file in a plain text editor.
 - Choose one of the chapters and add 4 or 5 notes about the content of that chapter, as a bulleted list. Use Markdown format.
 - You can add other content if you want -- images, links, etc.
-- After you save your changes, make a "commit" that describes the changes in GitHub Desktop.
-- Don't forget to "publish" your local repository(folder) and to "sync" any changes you made.
+- After you save your changes, they will appear in your repository in GitHub Desktop. Add a short and clear summary and description that describes the changes you made.
+- Click "commit to master" and then "sync" any changes you made.
 
 ## Make a "Pull Request"
 - Once you've added the content that you wanted, "committed" your changes locally, and synced those changes up to GitHub, it's time to propose that the masterfile accept your changes.
 - This is called a "pull request"
-- Go to your on-line account in GitHub, and find your forked repository
+- Go to your on-line account in GitHub, and find your forked repository.
 - Click on the the green button labeled "Compare and pull request"
 - This will take you to a page where you can describe your changes and make a case that they should be included in the masterfile.
 - Then click on "Send pull request". This will submit your change to the owner of the masterfile, Dr. Garrigus, and he will evaluate your work.
-
-this section needs more clarity or more steps
 
 ## Done!
 - You have forked a repository, made changes, and contributed to a document!
