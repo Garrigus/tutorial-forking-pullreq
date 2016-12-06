@@ -12,7 +12,7 @@ Source:  - https://guides.github.com/activities/forking/
 - Log into GitHub and go to http://github.com/Garrigus. Find the "tutorial-forking-pullreq" repository.
 - Click on the "fork" button in the upper right hand corner. This copies the files in the repository into your GitHub account.
 
-![fork screenshot](/../tutorial-forking-pullreq/fork_screenshot.png?raw=true "Optional Title")
+![fork screenshot](fork_screenshot.png)
 
 ## Clone the repository to your computer
 - Now you need to copy the files to your own computer so you can work on your own version. This is called "cloning".
@@ -20,7 +20,7 @@ Source:  - https://guides.github.com/activities/forking/
 - You can do this in GitHub Desktop by choosing "Clone in Desktop". Or you can copy a zipfile to your computer and unpack it there.
 - If you use the zipfile method, then "add" this new folder or repository to your GitHub Desktop list of repositories.
 
-![clone screenshot](tutorial-forking-pullreq/clone_screenshot.png)
+![clone screenshot](clone_screenshot.png)
 
 ## Add some content to the file named "Assignment-file-HydraNotes.md"
 - Open that file in a plain text editor.
